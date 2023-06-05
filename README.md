@@ -1,4 +1,4 @@
-#simple-tkinter-calculator 
+# simple-tkinter-calculator 
 
 This is an exploration into the Tkinter library. It provides a user-friendly interface for performing various mathematical operations, including basic arithmetic, square root, exponentiation, trigonometric functions, and logarithm through NumPy.
 
